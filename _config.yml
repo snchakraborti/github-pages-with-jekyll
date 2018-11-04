@@ -1,4 +1,10 @@
 -------
+title: "Welcome to my blog"
+date: 2018-11-04
+--------
+
+
+-------
 
 title: "Test GitHub Page with Jekyll"
 author: GitHub User
@@ -16,6 +22,3 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
 
-title: "Welcome to my blog"
-date: 2018-11-04
---------
